@@ -5,7 +5,7 @@ This repository provides a script to generate Certificate Authority and client c
 ## Thanks
 
 Based on the amazing
-article [How to Create CA Certificate](https://www.golinuxcloud.com/mutual-tls-authentication-mtls/#5_Create_CA_certificate).
+article [Mutual TLS Authentication](https://www.golinuxcloud.com/mutual-tls-authentication-mtls).
 
 ## Usage
 
