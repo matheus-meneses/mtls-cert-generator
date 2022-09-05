@@ -34,7 +34,7 @@ run
 chmod +x generate_mtls_cert.sh
 ```
 
-After
+after
 
 ```shell
 ./generate_mtls_cert
