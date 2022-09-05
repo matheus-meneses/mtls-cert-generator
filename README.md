@@ -32,13 +32,13 @@ Clone or fork this repo
 run
 
 ```shell
-chmod +x generate_mtls_cert.sh
+chmod +x generate.sh
 ```
 
 after
 
 ```shell
-./generate_mtls_cert
+./generate
 ```
 
 ## Anything wrong or want an improvement?
