@@ -1,5 +1,7 @@
 # mtls
 
+This repository provides a script to generate a Certificate Authority and client certificates.
+
 ## Thanks
 
 Based on the amazing
