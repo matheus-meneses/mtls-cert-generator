@@ -1,24 +1,23 @@
 # mtls
 
-This repository provides a script to generate a Certificate Authority and client certificates.
+This repository provides a script to generate Certificate Authority and client certificates.
 
 ## Thanks
 
 Based on the amazing
-article [How to Create CA Certificate](https://www.golinuxcloud.com/mutual-tls-authentication-mtls/#5_Create_CA_certificate)
-.
+article [How to Create CA Certificate](https://www.golinuxcloud.com/mutual-tls-authentication-mtls/#5_Create_CA_certificate).
 
 ## Usage
 
-Script was built initially to run local tests.
+The script was built initially to run local tests.
 
-Want to use in production? Go ahead.
+Want to use it in production? Go ahead.
 
 ## How to use
 
 ### OpenSSL
 
-First of all verify if you have openssl installed
+First of all, verify if you have OpenSSL installed
 
 ```shell
 openssl version
