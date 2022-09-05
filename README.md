@@ -22,7 +22,7 @@ First of all verify if you have openssl installed
 openssl version
 ```
 
-If not you have to do it.
+If not, you have to install it.
 
 ### Run
 
